@@ -1,2 +1,2 @@
 # Shoppe
-Website bàn khi học tại F8
+Website Được hoàn thành trong quá trình học tại F8
